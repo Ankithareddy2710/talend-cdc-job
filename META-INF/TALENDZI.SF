@@ -1,0 +1,173 @@
+Signature-Version: 1.0
+Created-By: Talend
+SHA-256-Digest-Manifest: +/VdPcQGMyFbm/fJUbOQdW0JHa4IFo7hiF2mbiEPq/s=
+
+Name: CDC_HashBased_Customers_WithJoblet/CDC_HashBased_Customers_WithJ
+ oblet_run.bat
+SHA-256-Digest: HOO+17h282NguBuE635CHM2MPH+iZB7B4eX3dTvUAoc=
+
+Name: CDC_HashBased_Customers_WithJoblet/CDC_HashBased_Customers_WithJ
+ oblet_run.ps1
+SHA-256-Digest: H/MSvKV2+Yfdl5nBIzH6j8zfg65ZiW6sntb/W2/rR/s=
+
+Name: CDC_HashBased_Customers_WithJoblet/CDC_HashBased_Customers_WithJ
+ oblet_run.sh
+SHA-256-Digest: Mi3HV40aWW7uPaFNHrtLLUZhIRvyhPPaw2emGX1JCXo=
+
+Name: CDC_HashBased_Customers_WithJoblet/ankitha/cdc_hashbased_custome
+ rs_withjoblet_0_1/contexts/Default.properties
+SHA-256-Digest: 3QYk0d+q+TjF6UYASdxeKDBKM6XzHyZWnXv+iz+n7Vo=
+
+Name: CDC_HashBased_Customers_WithJoblet/cdc_hashbased_customers_withj
+ oblet_0_1.jar
+SHA-256-Digest: 5kxPPODvwd84XWgxK/B0D/ccHJaHf4x3O89EAc+MGFs=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/.settings/migra
+ tion_task.index
+SHA-256-Digest: PM/z5xdlB/xR8gxGknSr9gekZAjh45/2yA22mP4DheQ=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/.settings/proje
+ ct.settings
+SHA-256-Digest: rw5Iu95efivknejBpin+V5eMIJOx47UEmwMe3ySnBD8=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/.settings/relat
+ ionship.index
+SHA-256-Digest: O3fVUBZprKdE042J93tCrvLfaFfjejTadnobnOduwTs=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/code/routines/H
+ ashUtil_0.1.item
+SHA-256-Digest: 80VvpD+x+zG3OQFER4xGgyqi536KMCePyiinFHmfx7E=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/code/routines/H
+ ashUtil_0.1.properties
+SHA-256-Digest: Ts4Usvj9gIftH8SBpuC8yxwMWdxnC/MNi2TiN9rUJ5U=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/joblets/cdcHash
+ Joblet_0.1.item
+SHA-256-Digest: dp0R1fZw8KeJ7eXnr7VJjVSpYZaAqBoC74wlSFAomr8=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/joblets/cdcHash
+ Joblet_0.1.properties
+SHA-256-Digest: dBPcH+PoJFsCul5jmss3TpV5T1FKQX09svUHTnNBB6w=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/joblets/cdcHash
+ Joblet_0.1.screenshot
+SHA-256-Digest: JA/ClzCKPym2tl0aT3SZ4FHgZ3pys+Zw43FTj9ADkzE=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/process/CDC_Has
+ hBased_Customers_WithJoblet_0.1.item
+SHA-256-Digest: L9c5modYOiDNCgxW0d/Enzfln0QprSnWypisDFcgUVk=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/process/CDC_Has
+ hBased_Customers_WithJoblet_0.1.properties
+SHA-256-Digest: qvOn/0lL9Tke4aQ3tmQZ5iAkKydy/kiVUkAEkTnjHao=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/process/CDC_Has
+ hBased_Customers_WithJoblet_0.1.screenshot
+SHA-256-Digest: yE+Q92KuRGXaCpza7MMGq0qoH62GTSp6L12kl1cZFHA=
+
+Name: CDC_HashBased_Customers_WithJoblet/items/ankitha/talend.project
+SHA-256-Digest: zhLxW3MuSzUp8NPgDKfUVf6AODdY0McWjB6UG3XuD0w=
+
+Name: CDC_HashBased_Customers_WithJoblet/log4j2.xml
+SHA-256-Digest: i3k7TUHIgxZbLavhXnh86zRsFivR4jLz3fIIPwVbILA=
+
+Name: CDC_HashBased_Customers_WithJoblet/src/main/java/ankitha/cdc_has
+ hbased_customers_withjoblet_0_1/CDC_HashBased_Customers_WithJoblet.ja
+ va
+SHA-256-Digest: aB1jDXZUEcVKxwjqnCWgQy0+ASVqbmuLmYeg1LzYIYQ=
+
+Name: CDC_HashBased_Customers_WithJoblet/src/main/resources/ankitha/cd
+ c_hashbased_customers_withjoblet_0_1/contexts/Default.properties
+SHA-256-Digest: OD9mMw0iJDNGobPTwEy1/oMbMXs86QSQL0aFPw0jlKY=
+
+Name: jobInfo.properties
+SHA-256-Digest: X0tMi8XDCceD5cVeECUgE0e/7/H0+olQuNHrWj2a/eY=
+
+Name: lib/accessors-smart-2.4.11.jar
+SHA-256-Digest: mAsojjfjfZSDCETguj/FXRjZ4ee1nbGfKpaylN6aMg8=
+
+Name: lib/advancedPersistentLookupLib-1.5.jar
+SHA-256-Digest: 6oJFWvnpXsXpALSwKJsCbSZXNcL9+G0878Uah25aVbM=
+
+Name: lib/asm-9.5.jar
+SHA-256-Digest: vZ4z7XvKDgeXyHAR5w83Jtlfkk+L0YqIzT79prsE+o4=
+
+Name: lib/audit-common-1.16.1.jar
+SHA-256-Digest: FQuuUiYHA0gEURFZrmZ2mo8m4B3YW+8fShAoPvmGdiU=
+
+Name: lib/audit-log4j2-1.16.1.jar
+SHA-256-Digest: Dhj4qkl+mvE2JNQg2nP4Eb+199h29mDForJ1zPFX/80=
+
+Name: lib/commons-collections-3.2.2.jar
+SHA-256-Digest: dSFY8tyl6BP1CQA45xRqQJn9fyjjNKK+mKKrScCIjp0=
+
+Name: lib/commons-lang3-3.10.jar
+SHA-256-Digest: s3vGmUZh2KjXnSOEINC9xgZqfUFD8YcTmRiJTUOqOwY=
+
+Name: lib/crypto-utils-7.1.20.jar
+SHA-256-Digest: WDf1+uePnOej/X9Naeh6oqCRT3nT1xF8xkGkJY+Dc+g=
+
+Name: lib/dom4j-2.1.3.jar
+SHA-256-Digest: hVq9Z6Oy5qkbp58JPqAOGcNVyYigCCt866KPyOXyviM=
+
+Name: lib/javassist-3.30.2-GA.jar
+SHA-256-Digest: aCrtYWaa2/JXZmkbbZmWStVv1NE4D3NcDmJ9Gp5Fk6Y=
+
+Name: lib/jboss-marshalling-2.0.12.Final.jar
+SHA-256-Digest: b3LXANpfoCBhNp9btNWKzYfaxehJi8gHUrKmO8ntz08=
+
+Name: lib/jboss-marshalling-river-2.0.12.Final.jar
+SHA-256-Digest: S5UrNJP6EH/ZNrwHdmwFSc1D1vziQneij1riUbTffac=
+
+Name: lib/job-audit-1.5.jar
+SHA-256-Digest: bY9zVyNHyHI97W+LQPVcEmXkV9qtLT07vlkdpazQX/k=
+
+Name: lib/json-smart-2.4.11.jar
+SHA-256-Digest: Xx9P3X2FmN8q/MUaPj0BQ9Jd+XVCXh8WLHYsrfsQFWQ=
+
+Name: lib/log4j-1.2-api-2.17.1.jar
+SHA-256-Digest: 7v7Q7aZnT1r34bi7thOPqc5R2BWGLDHiZRFtO8anLNA=
+
+Name: lib/log4j-api-2.17.1.jar
+SHA-256-Digest: JvLoY5sLco/BURcgNHgMG3mxEKdLtkFa8AAT6sHmNSE=
+
+Name: lib/log4j-core-2.17.1.jar
+SHA-256-Digest: cRa1qIo4eCqb6oqTCZVXjwCXQLpDs22oDt4cKy+sL+Y=
+
+Name: lib/log4j-layout-template-json-2.17.1.jar
+SHA-256-Digest: vUMFrNPlMbVftu4KPdB2Xn0AmFfYyPcpweg6PtWlY4c=
+
+Name: lib/log4j-slf4j2-impl-2.19.0.jar
+SHA-256-Digest: Linllu1G9CRFgND4O0XHSth2IzKOKWyX/5W9u7zXUB4=
+
+Name: lib/logging-event-layout-1.16.1.jar
+SHA-256-Digest: PmSobk+tlNUL4BWA7aGX41BTalsqdspLShVh2mrBjTE=
+
+Name: lib/routines.jar
+SHA-256-Digest: r2HoJPVYCoUVOa8I7MNSUmQOVa2FTkF9+SQReiMdRL0=
+
+Name: lib/slf4j-api-2.0.16.jar
+SHA-256-Digest: hkPvy4LPH+Mzv60oRAdgNCLWif0/jBtQVmdcuvuwpeM=
+
+Name: lib/system-routines.jar
+SHA-256-Digest: 4I4fqFDfYuWvOTyE3O1qobKZg+W/JuXw0YmBtAbWfJg=
+
+Name: lib/talendCBP-1.1.5.jar
+SHA-256-Digest: EJtJHhhL6sgLRvZ9MSVAHXHp7TLLyCBhQOeJUm3vlUI=
+
+Name: lib/talend_file_enhanced-1.3.1.jar
+SHA-256-Digest: BQ9c9yU0DBWip1qbbeN1X9PGqBuRErs1tswJ2K1Q2ks=
+
+Name: lib/talendagent-1.0.2.jar
+SHA-256-Digest: Qjp4o47+T9ynFp4CnC6BEjJh3h54KyGULx9/xQNxyHA=
+
+Name: lib/talendboot-1.0.9.jar
+SHA-256-Digest: IVN1h7hn8IkNb+a93tpNLQ7J815Lif9nkyEjO7FXZwA=
+
+Name: lib/talendcsv-1.1.0.jar
+SHA-256-Digest: QrVTJqlts0vhIpu+wYey6Ug8H0pZJYqZrObWFK2XVA0=
+
+Name: lib/trove-1.0.2.jar
+SHA-256-Digest: +5zFnDkcSoiAg1gPaiHPZHl6e8TtmkMUj2QiHjdl8GA=
+
